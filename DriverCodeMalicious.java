@@ -26,8 +26,8 @@ public class DriverCodeMalicious {
             mod_mm.initializeDSCoin(obj_mm, 128);
             // System.out.println(printDSObj(obj_mm));
             // obj_mm.show();
-            int x = 1;
-            string x = " dcsdfsdf"
+            int x =1;
+//            sa = " dcsdfsdf";
             obj_mm.memberlist[8].initiateCoinsend(obj_mm.memberlist[3].UID, obj_mm);
             obj_mm.memberlist[5].initiateCoinsend(obj_mm.memberlist[6].UID, obj_mm);
             obj_mm.memberlist[2].initiateCoinsend(obj_mm.memberlist[3].UID, obj_mm);
