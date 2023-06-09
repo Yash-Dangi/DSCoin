@@ -33,6 +33,7 @@ public class TransactionQueue {
       return t;
     }
   }
+  public test
   public Transaction GetTransaction(int i)
   {
     Transaction t=firstTransaction;
