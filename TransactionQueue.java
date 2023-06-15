@@ -38,7 +38,7 @@ public class TransactionQueue {
   {
     Transaction t=firstTransaction;
     int x=0;
-    int ff = 100;
+//    int ff = 100;
     while(x<i)
     {
       t=t.next;
